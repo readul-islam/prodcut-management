@@ -19,3 +19,28 @@ const salesHistoryFilter ={
     Monthly:"",
     Yearly:""
 }
+
+const productSchema ={
+    name:"",
+    price:"",
+    quantity:"number",
+    
+    description:"",
+    releaseDate:"date",
+    brand:"",
+    model:"",
+    os:"",
+    storageCapacity:"",
+    screenSize:"",
+    ram:"",
+    fontCamera:"",
+    backCamera:"",
+    batteryBackup:""
+
+
+}
+
+const salesManagement={
+    buyerName:"",
+    saleDate:""
+}
