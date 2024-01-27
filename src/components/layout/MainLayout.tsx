@@ -1,3 +1,4 @@
+import Table from "../Table";
 import Header from "./components/Header";
 import Sidebar from "./components/Sidebar";
 import SidebarToggle from "./components/SidebarToggle";
@@ -19,7 +20,11 @@ const MainLayout = () => {
       {/* <!-- End Sidebar --> */}
 
       {/* <!-- Content --> */}
-      <div className="w-full  h-[calc(100vh-74px)] overflow-auto pt-10 px-4 sm:px-6 md:px-8 lg:ps-72"></div>
+      <div className="w-full  h-[calc(100vh-71px)] overflow-auto pt-10 px-4 sm:px-6 md:px-8 lg:ps-72">
+
+
+        <Table/>
+      </div>
       {/* <!-- End Content --> */}
       {/* <!-- ========== END MAIN CONTENT ========== --> */}
     </div>

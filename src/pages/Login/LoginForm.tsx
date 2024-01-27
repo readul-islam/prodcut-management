@@ -62,7 +62,7 @@ const LoginForm = () => {
               <input
                 type="text"
                 id="hs-hero-signup-form-floating-input-user-name"
-                className="peer p-4 block w-full border-b  border-gray-200 border-opacity-50 rounded-lg text-sm placeholder:text-transparent disabled:opacity-50 disabled:pointer-events-none dark:bg-slate-900 dark:border-gray-700 dark:text-gray-400 dark:focus:ring-gray-900
+                className="peer p-4 block w-full border-b  border-gray-200 border-opacity-50 focus:rounded-lg text-sm placeholder:text-transparent disabled:opacity-50 disabled:pointer-events-none dark:bg-slate-900 dark:border-gray-700 dark:text-gray-400 dark:focus:ring-gray-900
         focus:pt-6
         focus:pb-2
         [&:not(:placeholder-shown)]:pt-6
@@ -95,7 +95,7 @@ const LoginForm = () => {
               <input
                 type="email"
                 id="hs-hero-signup-form-floating-input-email"
-                className="peer p-4 block w-full border-b  border-gray-200 border-opacity-50 rounded-lg text-sm placeholder:text-transparent focus:border-blue-500 focus:ring-blue-500 disabled:opacity-50 disabled:pointer-events-none dark:bg-slate-900 dark:border-gray-700 dark:text-gray-400 dark:focus:ring-gray-600
+                className="peer p-4 block w-full border-b  border-gray-200 border-opacity-50 focus:rounded-lg text-sm placeholder:text-transparent focus:border-blue-500 focus:ring-blue-500 disabled:opacity-50 disabled:pointer-events-none dark:bg-slate-900 dark:border-gray-700 dark:text-gray-400 dark:focus:ring-gray-600
         focus:pt-6
         focus:pb-2
         [&:not(:placeholder-shown)]:pt-6
@@ -132,7 +132,7 @@ const LoginForm = () => {
               <input
                 type="password"
                 id="hs-hero-signup-form-floating-input-new-password"
-                className="peer p-4 block w-full border-b  border-gray-200 border-opacity-50 rounded-lg text-sm placeholder:text-transparent focus:border-blue-500 focus:ring-blue-500 disabled:opacity-50 disabled:pointer-events-none dark:bg-slate-900 dark:border-gray-700 dark:text-gray-400 dark:focus:ring-gray-600
+                className="peer p-4 block w-full border-b  border-gray-200 border-opacity-50 focus:rounded-lg text-sm placeholder:text-transparent focus:border-blue-500 focus:ring-blue-500 disabled:opacity-50 disabled:pointer-events-none dark:bg-slate-900 dark:border-gray-700 dark:text-gray-400 dark:focus:ring-gray-600
         focus:pt-6
         focus:pb-2
         [&:not(:placeholder-shown)]:pt-6
@@ -383,7 +383,7 @@ const LoginForm = () => {
               <input
                 type="password"
                 id="hs-hero-signup-form-floating-input-current-password"
-                className="peer p-4 block w-full border-b border-gray-200 border-opacity-50 rounded-lg text-sm placeholder:text-transparent focus:border-blue-500 focus:ring-blue-500 disabled:opacity-50 disabled:pointer-events-none dark:bg-slate-900 dark:border-gray-700 dark:text-gray-400 dark:focus:ring-gray-600
+                className="peer p-4 block w-full border-b border-gray-200 border-opacity-50 focus:rounded-lg text-sm placeholder:text-transparent focus:border-blue-500 focus:ring-blue-500 disabled:opacity-50 disabled:pointer-events-none dark:bg-slate-900 dark:border-gray-700 dark:text-gray-400 dark:focus:ring-gray-600
         focus:pt-6
         focus:pb-2
         [&:not(:placeholder-shown)]:pt-6
